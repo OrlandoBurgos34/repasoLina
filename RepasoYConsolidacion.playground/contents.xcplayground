@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Debuggear'/>
+        <page name='Clases'/>
+        <page name='modularizacion-ejercicioEnClase'/>
+        <page name='modularizacion-Tarea'/>
+        <page name='Structuras'/>
+    </pages>
+</playground>
